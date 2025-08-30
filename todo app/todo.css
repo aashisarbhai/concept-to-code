@@ -1,0 +1,35 @@
+body{
+    background-color: #7ADAA5;
+}
+
+h1{
+    color: #F68537;
+    text-align: center;
+    font-size: 3rem;
+}
+
+input{
+    height: 3rem;
+    width: 64.5rem;
+    border-radius: 1rem;
+    border:2px solid #239BA7;
+    margin-left: 3rem;
+    font-size: 1.5rem;
+    padding-left: 1.5rem;
+}
+
+button{
+    background-color: #E1AA36;
+    height: 2.5rem;
+    width: 6.5rem;
+    border-radius: 1rem;
+    font-size: 1.2rem;
+}
+
+.delete{
+    width: 5rem;
+}
+
+li{
+    font-size: 1.5rem;
+}
