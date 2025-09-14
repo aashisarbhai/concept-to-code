@@ -11,3 +11,5 @@ Simon says game <br>
 Spotify clone <br>
 Todo App <br>
 Quora <br>
+sql with ejs <br>
+chat model <br>
